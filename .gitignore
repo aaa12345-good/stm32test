@@ -1,1 +1,33 @@
+# Keil generated files
+*.bak
+*.axf
+*.crf
+*.d
+*.dep
+*.hex
+*.htm
+*.lnp
+*.map
+*.o
+*.sct
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.build_log.htm
+
+# VS Code settings
+.vscode/*
 MDK-ARM/.vscode/*
+
+# Build output
+MDK-ARM/series_1/
+
+# Debug configuration
+MDK-ARM/DebugConfig/
+
+# RTE files
+MDK-ARM/RTE/
+
+# Startup files
+*.lst
+*.s
