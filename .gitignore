@@ -16,8 +16,8 @@
 *.build_log.htm
 
 # VS Code settings
-.vscode/*
-MDK-ARM/.vscode/*
+.vscode/
+MDK-ARM/.vscode/
 
 # Build output
 MDK-ARM/series_1/
