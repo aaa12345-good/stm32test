@@ -31,4 +31,5 @@ MDK-ARM/RTE/
 # Startup files
 *.lst
 *.s
+
 MDK-ARM/.vscode/keil-assistant.log
